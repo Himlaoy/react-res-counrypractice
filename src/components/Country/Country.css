@@ -1,0 +1,9 @@
+.country{
+    border: 8px solid saddlebrown;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+.country img{
+    width: 150px;
+}
